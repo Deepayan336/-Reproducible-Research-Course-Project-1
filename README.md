@@ -9,7 +9,6 @@ html_document
 
 ##Step 1 ##Code for reading in the dataset and/or processing the data
 
-setwd("C:/Users/Shengyu Chen/Dropbox/Academics/Coursera/Data Science Specialization/Reproducible Research/Course Project 1")
 activity<-read.csv("activity.csv")
 Exploring the basics of this data
 
